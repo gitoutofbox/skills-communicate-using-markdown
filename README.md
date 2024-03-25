@@ -21,6 +21,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Encourage users to open new tabs for steps!
 -->
 
+# heade 1
+## header 2
+### Header 3
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
